@@ -1,7 +1,7 @@
 <annotation>
-	<folder>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/train</folder>
+	<folder>./data/images/train</folder>
 	<filename>How to properly wear personal protective equipment for airborne contaminants 317.jpg</filename>
-	<path>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/train/How to properly wear personal protective equipment for airborne contaminants 317.jpg</path>
+	<path>./data/images/train/How to properly wear personal protective equipment for airborne contaminants 317.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

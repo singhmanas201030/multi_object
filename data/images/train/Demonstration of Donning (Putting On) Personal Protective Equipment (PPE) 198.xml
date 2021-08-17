@@ -1,7 +1,7 @@
 <annotation>
-	<folder>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/train</folder>
+	<folder>./data/images/train</folder>
 	<filename>Demonstration of Donning (Putting On) Personal Protective Equipment (PPE) 198.jpg</filename>
-	<path>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/train/Demonstration of Donning (Putting On) Personal Protective Equipment (PPE) 198.jpg</path>
+	<path>./data/images/train/Demonstration of Donning (Putting On) Personal Protective Equipment (PPE) 198.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

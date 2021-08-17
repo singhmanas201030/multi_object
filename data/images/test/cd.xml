@@ -1,7 +1,7 @@
 <annotation>
-	<folder>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/validation</folder>
+	<folder>./data/images/test</folder>
 	<filename>cd.jpg</filename>
-	<path>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/validation/cd.jpg</path>
+	<path>./data/images/test/cd.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

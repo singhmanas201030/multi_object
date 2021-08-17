@@ -1,7 +1,7 @@
 <annotation>
-	<folder>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/train</folder>
+	<folder>./data/images/train</folder>
 	<filename>jruk.png</filename>
-	<path>/content/gdrive/My Drive/Fluture_custom/ImageAI-master/dataset/train/jruk.png</path>
+	<path>./data/images/train/jruk.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
